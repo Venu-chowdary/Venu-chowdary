@@ -9,7 +9,7 @@ Aspiring Software Developer • Java | Python | ML | Web Dev
 - 🎓 B.Tech CSE, Batch 2026  
 - 📌 Passionate about Machine Learning, Java Development, and Full-Stack Projects  
 - ✅ Early Student Dropout Prediction Model (Accuracy: **97%**)  
-- ✅ Potato Crop Yield Prediction (Accuracy: **89%**)  
+- ✅ Crop recommendation system(Accuracy: **89%**)  
 - 📬 Email: **venu.c2026@gmail.com**  
 - 📱 Phone: **7569651187**
 
