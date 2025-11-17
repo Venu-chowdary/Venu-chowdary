@@ -8,7 +8,7 @@ Aspiring Software Developer • Java | Python | ML | Web Dev
 ### 🚀 About Me
 - 🎓 B.Tech CSE, Batch 2026  
 - 📌 Passionate about Machine Learning, Java Development, and Full-Stack Projects  
-- ✅ Early Student Dropout Prediction Model (Accuracy: **80%**)  
+- ✅ Early Student Dropout Prediction Model (Accuracy: **97%**)  
 - ✅ Potato Crop Yield Prediction (Accuracy: **89%**)  
 - 📬 Email: **venu.c2026@gmail.com**  
 - 📱 Phone: **7569651187**
@@ -44,11 +44,11 @@ Aspiring Software Developer • Java | Python | ML | Web Dev
 
 #### ✅ Early Student Dropout Prediction (ML)
 - Kaggle dataset  
-- Accuracy: **80%**  
+- Accuracy: **97%**  
 - Models: Logistic Regression, Random Forest  
 - Notebook + VS Code  
 
-#### ✅ Potato Crop Yield Prediction (ML)
+#### ✅ Crop recommendation system (ML)
 - Accuracy: **89%**  
 - Regression + EDA + Model Comparison  
 
